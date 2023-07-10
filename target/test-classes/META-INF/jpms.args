@@ -1,4 +1,0 @@
---patch-module
-com.example.jpong=_
---add-reads
-com.example.jpong=ALL-UNNAMED
