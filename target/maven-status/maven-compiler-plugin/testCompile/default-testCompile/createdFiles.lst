@@ -1,0 +1,9 @@
+jpong\app\testapp\CheckConnectionTest.class
+jpong\app\testapp\ReaderTest.class
+jpong\app\testapp\ConnectedEdgesTest.class
+jpong\app\testapp\FindPathsTest.class
+jpong\app\testapp\GeneratorTest.class
+jpong\app\testapp\RandomEdgesTest.class
+jpong\app\testapp\PriorityQueueTest.class
+jpong\app\testapp\AllEdgesTest.class
+jpong\app\testapp\PathTest.class
